@@ -2,7 +2,7 @@ William Wetzel
 From Data to Decisions  
 GitHub Repository
 <figcaption>Profile Photo</figcaption>
-<img src="http://3.bp.blogspot.com/-ygK-CnPnDZI/VXpKGaD4MCI/AAAAAAAAAMI/zdZu9rmjBUg/s1600/gorilla.jpg" alt="Drawing" style="width: 10px;"/>  
+<img src="https://i1.wp.com/pbs.twimg.com/profile_images/682141907191922688/qqlbT88d_200x200.jpg" alt="Drawing" style="width: 10px;"/>  
   
   
 ----Standard [MIT License](https://opensource.org/licenses/MIT) Applies to all code in this Repository---- 
