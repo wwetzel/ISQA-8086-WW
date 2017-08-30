@@ -15,8 +15,7 @@ All coursework for ISQA8086 will be stored here, this README will be updated as 
 
 ### Author
 William Wetzel
-
-<figcaption>Profile Photo</figcaption>
+<figcaption>Photo</figcaption>
 <img src="http://www.adventuresinpoortaste.com/wp-content/uploads/2009/07/gorilla-150x150.jpg" alt="Drawing" style="width: 10px;"/> 
 
 
