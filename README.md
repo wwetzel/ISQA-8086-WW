@@ -1,11 +1,11 @@
-####From Data to Decisions GitHub Repository
+#### From Data to Decisions GitHub Repository
 
 All coursework for ISQA8086 will be stored here, this README will be updated as new files are added.
 
 ----Standard [MIT License](https://opensource.org/licenses/MIT) Applies to all code in this Repository---- 
   
     
-###Current Contents:
+### Current Contents:
 
 1. README.md  
   Referring to this file, describes the contents of the repo, licensing rights, and author info.
@@ -13,7 +13,7 @@ All coursework for ISQA8086 will be stored here, this README will be updated as 
   Will submit summary of data sources after researching
 
 
-###Author
+### Author
 William Wetzel
 
 <figcaption>Profile Photo</figcaption>
