@@ -1,4 +1,4 @@
-#### From Data to Decisions GitHub Repository
+## From Data to Decisions GitHub Repository
 
 All coursework for ISQA8086 will be stored here, this README will be updated as new files are added.
 
