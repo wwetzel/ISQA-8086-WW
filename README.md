@@ -9,9 +9,9 @@ All coursework for ISQA8086 will be stored here, this README will be updated as 
 
 1. README.md  
   Referring to this file, describes the contents of the repo, licensing rights, and author info.
-2. (In Progress) - Information Seeking Documents  
-  Will submit summary of data sources after researching
-
+2. Information Seeking  
+  Markdown files prefixed with "IS_" are summarizations of open data which may be of interest for general analysis across the internet.  Featured are one set of federal government data, one set of Nebraska government data, and one from the non-profit Kiva.    
+3. (In Progress) - Data Entry Analysis
 
 ### Author
 William Wetzel
