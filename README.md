@@ -11,7 +11,8 @@ All coursework for ISQA8086 will be stored here, this README will be updated as 
   Referring to this file, describes the contents of the repo, licensing rights, and author info.
 2. Information Seeking  
   Markdown files prefixed with "IS_" are summarizations of open data which may be of interest for general analysis across the internet.  Featured are one set of federal government data, one set of Nebraska government data, and one from the non-profit Kiva.    
-3. (In Progress) - Data Entry Analysis
+3. Data Entry Analysis
+  This write up examined 3 proposed data set formats for use in a scientific experiment (not available to the public).  After gaining business understanding and comparing the 3 formats, a proposed best format solution exists with the report.  The topic was plankton densities across a top secret pond.
 
 ### Author
 William Wetzel
